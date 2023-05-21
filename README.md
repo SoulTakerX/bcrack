@@ -1,4 +1,4 @@
-# bcrypt decoder/decrypt
+# bcrypt decrypt
 basically a bcrypt hash decoder based on wordlist
 
 Este é um programa simples em Python para realizar uma busca de força bruta em uma hash de senha utilizando uma wordlist. O código foi desenvolvido com o objetivo de demonstrar o processo de comparação de hashes de senhas com bcrypt em Python.
